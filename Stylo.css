@@ -47,7 +47,7 @@ div#barra {
     margin: auto;
     z-index: 20;
     position: absolute;
-    width: 2000px;
+    width: 1350px;
     height:159px;
     background-color: #005883;
     
@@ -209,7 +209,7 @@ div#gen_pie{
 }
 
 div#izq_pie{
-    margin-left: 390px;
+    margin-left: 80px;
     margin-right: px;
     padding-left: px;
     padding-top: 50px;
@@ -218,7 +218,7 @@ div#izq_pie{
     }
 
 div#cen_pie{
-    margin-left: 120px;
+    margin-left: 80px;
     margin-right: 0px;
     width: 430px;
     padding-top: 10px;
@@ -226,10 +226,10 @@ div#cen_pie{
     }
 
 div#der_pie{
-    margin-left: 70px;
+    margin-left: 80px;
     margin-right: 0px;
     width: 220px;
-    padding-top: 30px;
+    padding-top: 10px;
     float: left;
     }
 .social {
